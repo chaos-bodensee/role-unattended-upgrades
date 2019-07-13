@@ -1,0 +1,3 @@
+# Main configuration see /etc/apt/apt.conf.d/50unattended-upgrades
+Unattended-Upgrade::Mail "root";
+Unattended-Upgrade::MailOnlyOnError "{{ uau_mail_only_on_error }}";

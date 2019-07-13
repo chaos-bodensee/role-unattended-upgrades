@@ -1,0 +1,6 @@
+---
+# Actually enable unattended upgrades
+unattended_upgrades: true
+
+# Send mails only on error
+uau_mail_only_on_error: "false"
