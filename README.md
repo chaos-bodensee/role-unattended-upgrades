@@ -1,17 +1,11 @@
-Unattended Debian Upgrades
+ Unattended Debian Upgrades
 ==========================
 
 Ansible role to install and configure `unattended-upgrades`.
 
-
-Variables
----------
-
-
-Files
------
-
-
+```
+This is exclusively for Debian
+```
 
 References
 ----------
